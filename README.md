@@ -1,4 +1,4 @@
-# 📄 Proje Raporu
+# ZooApp
 
 **Proje Adı:** Hayvanat Bahçesi Hayvan Kayıt ve Ziyaretçi Sistemi  
 **Geliştirildiği Ortam:** Microsoft SQL Server, Visual Studio (.NET Framework), Windows Forms  
